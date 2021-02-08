@@ -14,7 +14,7 @@ nav{
 
 height: 50px;
 width: 100%;
-background-color:#034444;
+background-color:#ADD8E6;
 }
 main{
   height: 400px;
@@ -27,13 +27,13 @@ main{
 aside{
   height:500px;
   width:  50%;
-  background-color:#F0F8FF;
+  background-color:#FFFFE0;
 
 }
 footer{
   height: 50px;
   width:100%;
-  background-color:#ccdffc;
+  background-color:#FFF8DC;
 
 
 }
