@@ -8,7 +8,7 @@
 header{
   height: 100px;
   width:  100%;
-  background-color:black;
+  background-color:#7FFFD4;
 }
 nav{
 
@@ -17,8 +17,8 @@ width: 100%;
 background-color:#ADD8E6;
 }
 main{
-  height: 400px;
-  width:   60%;
+  height: 500px;
+  width:   50%;
   background-color:#00FFFF;
 
 
